@@ -1,0 +1,7 @@
+,costo_directo,costo_directo,indice_riesgo,anomalia_if,anomalia_dbscan
+,mean,count,mean,sum,sum
+cluster_kmeans,,,,,
+0,13665718.37,72,0.41,5,72
+1,11275403.25,69,0.46,14,67
+2,5756291.92,40,0.65,26,40
+3,6948462.87,139,0.31,3,97
